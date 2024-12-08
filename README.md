@@ -36,12 +36,4 @@
   <img src="https://img.shields.io/badge/WSL-4A4A55?style=flat-square&logo=windows-terminal&logoColor=white" alt="WSL"/>
 </p>
 
----
-
-<h2 align="center">🎖️ My Holopin Badges</h2>
-<p align="center">
-  <img src="https://holopin.me/salmanin" width="500"/>
-</p>
-
-
 
