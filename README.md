@@ -1,10 +1,11 @@
+
 <h1 align="center">Hi there, I'm Salman! 👋</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
-  <b>Web Enthusiast | Lifelong Learner</b>
+  <b>Web Enthusiast</b>
 </p>
 
 ---
@@ -18,10 +19,10 @@
 
 <h2 align="center">💡 A Bit About Me</h2>
 
-- 💻 **Currently working** on building full-stack applications using the **MERN stack** and diving deeper into **DSA**.
-- 🎯 **Always learning** new tools, frameworks, and technologies to stay ahead in the tech world.
-- 🧑‍🏫 **Mentor and collaborator** with a passion for teaching, sharing knowledge, and working on team-driven projects.
-- 💼 **Seeking opportunities** to solve real-world problems and create meaningful impacts through coding.
+- 💻 **Currently working** on building full-stack applications using the **MERN stack** and also learning DSA.
+- 🎯 **Always learning** and expanding my skills with new tools and technologies.
+- 🧑‍🏫 **Mentor and collaborator**, passionate about teaching others and working on team projects.
+- 💼 **Seeking opportunities** to make a real impact through coding.
 
 ---
 
@@ -33,16 +34,4 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/WSL-4A4A55?style=flat-square&logo=windows-terminal&logoColor=white" alt="WSL"/>
-</p>
-
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/salman-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/salman-profile" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
