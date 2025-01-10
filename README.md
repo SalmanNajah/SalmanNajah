@@ -11,7 +11,7 @@
 
 <h2 align="center">🚀 Skills & Technologies</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,tailwind,express,nodejs,mongodb,postgres,prisma,cpp,c,java,websockets,turborepo,monorepo,recoil,postman&theme=light" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,tailwind,express,nodejs,mongodb,postgres,prisma,cpp,c,java,websockets,turborepo,monorepo,recoil&theme=light" alt="Skills"/>
 </p>
 
 ---
