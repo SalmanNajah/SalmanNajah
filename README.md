@@ -1,28 +1,27 @@
-
 <h1 align="center">Hi there, I'm Salman! 👋</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
-  <b>Web Enthusiast</b>
+  <b>Web Enthusiast | Lifelong Learner</b>
 </p>
 
 ---
 
 <h2 align="center">🚀 Skills & Technologies</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,express,nodejs,mongodb,java,cpp,c,postman&theme=light" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,tailwind,express,nodejs,mongodb,postgres,prisma,cpp,c,java,websockets,turborepo,monorepo,recoil,postman&theme=light" alt="Skills"/>
 </p>
 
 ---
 
 <h2 align="center">💡 A Bit About Me</h2>
 
-- 💻 **Currently working** on building full-stack applications using the **MERN stack** and also learning DSA.
-- 🎯 **Always learning** and expanding my skills with new tools and technologies.
-- 🧑‍🏫 **Mentor and collaborator**, passionate about teaching others and working on team projects.
-- 💼 **Seeking opportunities** to make a real impact through coding.
+- 💻 **Currently working** on building full-stack applications using the **MERN stack** and diving deeper into **DSA**.
+- 🎯 **Always learning** new tools, frameworks, and technologies to stay ahead in the tech world.
+- 🧑‍🏫 **Mentor and collaborator** with a passion for teaching, sharing knowledge, and working on team-driven projects.
+- 💼 **Seeking opportunities** to solve real-world problems and create meaningful impacts through coding.
 
 ---
 
