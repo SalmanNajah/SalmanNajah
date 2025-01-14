@@ -1,26 +1,26 @@
 <h1 align="center">Hi there, I'm Salman! 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3ohzdVt8rL29xP5V3a/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer | Passionate Learner | Tech Innovator</b>
+  <b>Full-Stack Developer</b>
 </p>
 
 ---
 
 <h2 align="center">🚀 Skills & Technologies</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,tailwind,express,nodejs,mongodb,postgres,prisma,cpp,c,java,websockets,turborepo,monorepo,recoil&theme=light" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,tailwind,express,nodejs,mongodb,postgres,prisma,cpp,c,java,websockets,turborepo,monorepo,recoil&theme=dark" alt="Skills"/>
 </p>
 
 ---
 
 <h2 align="center">💡 A Bit About Me</h2>
 
-- 💻 **Currently working** on developing dynamic full-stack applications using the **MERN stack** and exploring **DevOps** for Deployement.
+- 💻 **Currently working** on developing dynamic full-stack applications using the **MERN stack** and exploring **DevOps** for Deployment.
 - 🎯 **Always evolving** my knowledge by diving deep into the latest frameworks, technologies, and industry best practices.
-- 🧑‍🏫 **Collaborative mentor**: I enjoy sharing insights, guiding others, and working on high-impact team projects to drive innovation.
+- 📚 **Learning DSA**: I'm currently exploring Data Structures and Algorithms (DSA) to strengthen my problem-solving skills and prepare for coding challenges.
 ---
 
 <h2 align="center">🛠️ Tools I Use</h2>
