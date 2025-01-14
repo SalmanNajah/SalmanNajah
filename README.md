@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>Web Enthusiast | Lifelong Learner</b>
+  <b>Full-Stack Developer | Passionate Learner | Tech Innovator</b>
 </p>
 
 ---
@@ -18,10 +18,10 @@
 
 <h2 align="center">💡 A Bit About Me</h2>
 
-- 💻 **Currently working** on building full-stack applications using the **MERN stack** and diving deeper into **DSA**.
-- 🎯 **Always learning** new tools, frameworks, and technologies to stay ahead in the tech world.
-- 🧑‍🏫 **Mentor and collaborator** with a passion for teaching, sharing knowledge, and working on team-driven projects.
-- 💼 **Seeking opportunities** to solve real-world problems and create meaningful impacts through coding.
+- 💻 **Currently working** on developing dynamic full-stack applications using the **MERN stack** and exploring **Data Structures and Algorithms** for optimization.
+- 🎯 **Always evolving** my knowledge by diving deep into the latest frameworks, technologies, and industry best practices.
+- 🧑‍🏫 **Collaborative mentor**: I enjoy sharing insights, guiding others, and working on high-impact team projects to drive innovation.
+- 💼 **Seeking opportunities** to make an impact by solving real-world challenges through innovative code and efficient solutions.
 
 ---
 
@@ -34,3 +34,21 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/WSL-4A4A55?style=flat-square&logo=windows-terminal&logoColor=white" alt="WSL"/>
 </p>
+
+---
+
+<h2 align="center">📚 Currently Learning</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+</p>
+
+---
+
+<h2 align="center">🌱 Fun Facts</h2>
+- 🌍 I love working on projects that push boundaries and help the community grow.
+- 🎮 When I'm not coding, you'll find me gaming, learning about new tech trends, or tinkering with hardware projects.
+- 🤖 Passionate about automating processes and optimizing performance across all layers of development.
+
+Thanks for visiting my profile! Happy coding! 😄
