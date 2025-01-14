@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Salman! 👋</h1>
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="300"/>
 </p>
 
 <p align="center">
