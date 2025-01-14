@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Salman! 👋</h1>
 <p align="center">
-  <img src="[https://media.giphy.com/media/3ohzdVt8rL29xP5V3a/giphy.gif](https://private-user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY4NzI2NzksIm5iZiI6MTczNjg3MjM3OSwicGF0aCI6Ii83NDAzODE5MC8yNDg4ODQwMDQtYWYyMTJkYTQtODU4OC00ZDdjLTg0MDAtMTZlNTZmMjc0NmEwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE0VDE2MzI1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmOThlYTA2OTcwYjg1NmU4MTAwZjRjMTQ2Y2FhMzE2MDIxODJjMTk4NDFkNjA5ZWM5MTAwMDdiZGExZDlkNDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XWBkPsTzTUog9Pd1-AU6tD8RV3B_IYw8nGcxtzoLQm4)" width="300"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="300"/>
 </p>
 
 <p align="center">
