@@ -32,6 +32,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/WSL-4A4A55?style=flat-square&logo=windows-terminal&logoColor=white" alt="WSL"/>
 </p>
----
-
-Thanks for visiting my profile! Happy coding! 😄
