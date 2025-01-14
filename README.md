@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Salman! 👋</h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
 </p>
 
 <p align="center">
